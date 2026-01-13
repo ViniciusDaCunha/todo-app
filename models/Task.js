@@ -2,7 +2,7 @@
  * Representa uma tarefa individual no sistema
  *
  * Princípios aplicados:
- * - Immutability: Propriedades privadas com getters
+ * - Immutability: Propriedades privadas com getters (Melhor para gerenciamento de estado)
  * - Encapsulation: Validação interna
  * - Single Responsibility: Apenas representa uma tarefa
  */
